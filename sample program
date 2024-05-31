@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-int a,c;
+int a,d;
 a=10;
 c=25;
 printf("value of a:%d",a);
